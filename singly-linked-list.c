@@ -517,7 +517,7 @@ int getPosition()
     int pos;
     
     printf("\nEnter Position: ");
-    scanf("%d", &pos);
+    scanf("%d",  &pos);
     
     return pos;
 }
